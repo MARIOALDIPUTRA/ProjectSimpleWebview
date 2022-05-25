@@ -12,6 +12,5 @@ What I learned from this demo:
 * Add or remove item in `RecyclerView`, handle long click events on list item
 * Deal with the WebView in NestedScrollView through the library: `NestedScrollWebView` in Github
 
-Resource: [NestedScrollWebView](https://gist.github.com/alexmiragall/0c4c7163f7a17938518ce9794c4a5236)
 
 ***
